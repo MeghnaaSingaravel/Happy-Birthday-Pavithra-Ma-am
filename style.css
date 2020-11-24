@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+h1{
+    color: black;
+    font-size: 50px;
+    
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Nerko One', cursive;
+    background-image: url("https://previews.123rf.com/images/liyavihola/liyavihola1806/liyavihola180600040/104726755-textured-abstract-acrylic-painting-abstract-art-background-color-texture-modern-art-.jpg");
+text-align: center;
+
+}
+
+p{
+    font-size: 22px;
+    }
+
+
+
+footer{
+    font-size: 33px;
+    color: black;
+}
